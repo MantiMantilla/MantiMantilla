@@ -8,6 +8,7 @@
 </a>
 </div>
 
+
 <div align="center">
 <a href="https://github.com/copa-uniandes/optimizacion">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=copa-uniandes&repo=optimizacion&theme=radical" />
