@@ -1,13 +1,13 @@
 ### 🔭 I’m currently working on multiple static sites to showcase my front-end development skills. Feel free to reach out to me!
 
-<div style="justify-content: space-between;">
 <a href="https://github.com/MantiMantilla/MantiMantilla.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MantiMantilla&repo=MantiMantilla.github.io" />
 </a>
 <a href="https://github.com/copa-uniandes/optimizacion">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=copa-uniandes&repo=optimizacion" />
 </a>
-</div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MantiMantilla&layout=compact)](https://github.com/MantiMantilla/MantiMantilla.github.io)
 <!--
 **MantiMantilla/MantiMantilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
