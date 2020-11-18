@@ -1,11 +1,12 @@
 ### 🔭 I’m currently working on multiple static sites to showcase my front-end development skills. Feel free to reach out to me!
-
+<p float="center">
 <a href="https://github.com/MantiMantilla/MantiMantilla.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MantiMantilla&repo=MantiMantilla.github.io&theme=radical" />
 </a>
 <a href="https://github.com/MantiMantilla/MantiMantilla.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MantiMantilla&layout=compact&theme=radical" />
 </a>
+</p>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=copa-uniandes&repo=optimizacion&theme=radical)]("https://github.com/copa-uniandes/optimizacion")
 <!--
