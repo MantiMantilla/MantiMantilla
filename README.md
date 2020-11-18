@@ -1,7 +1,7 @@
 ### 🔭 I’m currently working on multiple static sites to showcase my front-end development skills. Feel free to reach out to me!
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MantiMantilla&repo=MantiMntilla.github.io" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MantiMantilla&repo=MantiMantilla.github.io" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=copa-uniandes&repo=optimizacion" />
