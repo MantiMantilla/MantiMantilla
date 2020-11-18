@@ -4,13 +4,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MantiMantilla&repo=MantiMantilla.github.io" />
 </a>
 <a href="https://github.com/copa-uniandes/optimizacion">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=copa-uniandes&repo=optimizacion" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MantiMantilla&layout=compact" />
 </a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MantiMantilla&layout=compact)](https://github.com/MantiMantilla/MantiMantilla.github.io)
 <!--
 **MantiMantilla/MantiMantilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+https://github-readme-stats.vercel.app/api/pin/?username=copa-uniandes&repo=optimizacion
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
