@@ -1,4 +1,4 @@
-<h2> 🔭 I’m currently working on multiple static sites to showcase my front-end development skills. Feel free to reach out to me! </h2>
+<div style="text-align: right"><h2> 🔭 I’m currently working on multiple static sites to showcase my front-end development skills. Feel free to reach out to me! </h2></div>
 <div align="center">
 <a href="https://github.com/MantiMantilla/MantiMantilla.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MantiMantilla&repo=MantiMantilla.github.io&theme=radical" />
