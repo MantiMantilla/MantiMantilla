@@ -3,7 +3,7 @@
 <a href="https://github.com/MantiMantilla/MantiMantilla.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MantiMantilla&repo=MantiMantilla.github.io&theme=radical" />
 </a>
-<a href="https://github.com/MantiMantilla/MantiMantilla.github.io">
+<a href="https://mantimantilla.github.io/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MantiMantilla&layout=compact&theme=radical&langs_count=4" />
 </a>
 </div>
