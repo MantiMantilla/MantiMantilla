@@ -1,4 +1,4 @@
-## 🔭 I’m currently working on multiple static sites to showcase my frontend development skills as well as some data engineering projects. Feel free to reach out to me!
+# 🔭 My work focuses on data analytics, operations research and STEM education, all through [@copa-uniandes], all open source!!!
 <div align="center">
 <a href="https://github.com/MantiMantilla/MantiMantilla.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MantiMantilla&repo=MantiMantilla.github.io&theme=radical" />
